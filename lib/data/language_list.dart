@@ -1,0 +1,17 @@
+const Map<String, dynamic> countryData = {
+  'es': ['Spanish', 'es'],
+  'en': ['English', 'gb'],
+  'af': ['Afrikaans', 'za'],
+  'ar': ['Arabic', 'sa'],
+  'zh': ['Chinese', 'cn'],
+  'nl': ['Dutch', 'nl'],
+  'de': ['German', 'de'],
+  'el': ['Greek', 'gr'],
+  'fr': ['French', 'fr'],
+  'he': ['Hebrew', 'il'],
+  'it': ['Italian', 'it'],
+  'ja': ['Japanese', 'jp'],
+  'ko': ['Korean', 'kp'],
+  'ru': ['Russian', 'ru'],
+  'sv': ['Swedish', 'se'],
+};
